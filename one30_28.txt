@@ -1,0 +1,812 @@
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 1 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11964  Infinite
+Blocked Total                                   634  Infinite
+Blocked A to B                                  504  Infinite
+Blocked B to A                                  130  Infinite
+Successful B to A                              5409  Infinite
+Successful A to B                              6552  Infinite
+
+Beginning replication 2 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 2 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 12029  Infinite
+Blocked Total                                   554  Infinite
+Blocked A to B                                  386  Infinite
+Blocked B to A                                  168  Infinite
+Successful B to A                              5431  Infinite
+Successful A to B                              6600  Infinite
+
+Beginning replication 3 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 3 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11973  Infinite
+Blocked Total                                   371  Infinite
+Blocked A to B                                  274  Infinite
+Blocked B to A                                   97  Infinite
+Successful B to A                              5427  Infinite
+Successful A to B                              6550  Infinite
+
+Beginning replication 4 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 4 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11830  Infinite
+Blocked Total                                   430  Infinite
+Blocked A to B                                  332  Infinite
+Blocked B to A                                   98  Infinite
+Successful B to A                              5391  Infinite
+Successful A to B                              6447  Infinite
+
+Beginning replication 5 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 5 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 12001  Infinite
+Blocked Total                                   522  Infinite
+Blocked A to B                                  388  Infinite
+Blocked B to A                                  134  Infinite
+Successful B to A                              5370  Infinite
+Successful A to B                              6625  Infinite
+
+Beginning replication 6 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 6 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11946  Infinite
+Blocked Total                                   484  Infinite
+Blocked A to B                                  411  Infinite
+Blocked B to A                                   73  Infinite
+Successful B to A                              5364  Infinite
+Successful A to B                              6588  Infinite
+
+Beginning replication 7 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 7 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11822  Infinite
+Blocked Total                                   426  Infinite
+Blocked A to B                                  369  Infinite
+Blocked B to A                                   57  Infinite
+Successful B to A                              5410  Infinite
+Successful A to B                              6414  Infinite
+
+Beginning replication 8 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 8 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11955  Infinite
+Blocked Total                                   418  Infinite
+Blocked A to B                                  361  Infinite
+Blocked B to A                                   57  Infinite
+Successful B to A                              5500  Infinite
+Successful A to B                              6453  Infinite
+
+Beginning replication 9 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 9 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11898  Infinite
+Blocked Total                                   509  Infinite
+Blocked A to B                                  411  Infinite
+Blocked B to A                                   98  Infinite
+Successful B to A                              5393  Infinite
+Successful A to B                              6502  Infinite
+
+Beginning replication 10 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 10 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11988  Infinite
+Blocked Total                                   514  Infinite
+Blocked A to B                                  409  Infinite
+Blocked B to A                                  105  Infinite
+Successful B to A                              5434  Infinite
+Successful A to B                              6554  Infinite
+
+Beginning replication 11 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 11 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11789  Infinite
+Blocked Total                                   434  Infinite
+Blocked A to B                                  329  Infinite
+Blocked B to A                                  105  Infinite
+Successful B to A                              5344  Infinite
+Successful A to B                              6442  Infinite
+
+Beginning replication 12 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 12 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11935  Infinite
+Blocked Total                                   379  Infinite
+Blocked A to B                                  302  Infinite
+Blocked B to A                                   77  Infinite
+Successful B to A                              5288  Infinite
+Successful A to B                              6656  Infinite
+
+Beginning replication 13 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 13 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11949  Infinite
+Blocked Total                                   393  Infinite
+Blocked A to B                                  309  Infinite
+Blocked B to A                                   84  Infinite
+Successful B to A                              5395  Infinite
+Successful A to B                              6556  Infinite
+
+Beginning replication 14 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 14 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11977  Infinite
+Blocked Total                                   398  Infinite
+Blocked A to B                                  341  Infinite
+Blocked B to A                                   57  Infinite
+Successful B to A                              5392  Infinite
+Successful A to B                              6575  Infinite
+
+Beginning replication 15 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 15 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 12029  Infinite
+Blocked Total                                   466  Infinite
+Blocked A to B                                  376  Infinite
+Blocked B to A                                   90  Infinite
+Successful B to A                              5519  Infinite
+Successful A to B                              6498  Infinite
+
+Beginning replication 16 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 16 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 12065  Infinite
+Blocked Total                                   469  Infinite
+Blocked A to B                                  350  Infinite
+Blocked B to A                                  119  Infinite
+Successful B to A                              5482  Infinite
+Successful A to B                              6579  Infinite
+
+Beginning replication 17 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 17 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11931  Infinite
+Blocked Total                                   369  Infinite
+Blocked A to B                                  294  Infinite
+Blocked B to A                                   75  Infinite
+Successful B to A                              5405  Infinite
+Successful A to B                              6528  Infinite
+
+Beginning replication 18 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 18 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11767  Infinite
+Blocked Total                                   424  Infinite
+Blocked A to B                                  324  Infinite
+Blocked B to A                                  100  Infinite
+Successful B to A                              5313  Infinite
+Successful A to B                              6439  Infinite
+
+Beginning replication 19 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 19 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 12011  Infinite
+Blocked Total                                   503  Infinite
+Blocked A to B                                  390  Infinite
+Blocked B to A                                  113  Infinite
+Successful B to A                              5472  Infinite
+Successful A to B                              6543  Infinite
+
+Beginning replication 20 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 20 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11980  Infinite
+Blocked Total                                   384  Infinite
+Blocked A to B                                  285  Infinite
+Blocked B to A                                   99  Infinite
+Successful B to A                              5445  Infinite
+Successful A to B                              6534  Infinite
+
+Beginning replication 21 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 21 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11956  Infinite
+Blocked Total                                   501  Infinite
+Blocked A to B                                  389  Infinite
+Blocked B to A                                  112  Infinite
+Successful B to A                              5377  Infinite
+Successful A to B                              6581  Infinite
+
+Beginning replication 22 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 22 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11933  Infinite
+Blocked Total                                   458  Infinite
+Blocked A to B                                  356  Infinite
+Blocked B to A                                  102  Infinite
+Successful B to A                              5428  Infinite
+Successful A to B                              6513  Infinite
+
+Beginning replication 23 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 23 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11956  Infinite
+Blocked Total                                   365  Infinite
+Blocked A to B                                  269  Infinite
+Blocked B to A                                   96  Infinite
+Successful B to A                              5379  Infinite
+Successful A to B                              6573  Infinite
+
+Beginning replication 24 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 24 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11797  Infinite
+Blocked Total                                   492  Infinite
+Blocked A to B                                  407  Infinite
+Blocked B to A                                   85  Infinite
+Successful B to A                              5304  Infinite
+Successful A to B                              6479  Infinite
+
+Beginning replication 25 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 25 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 12040  Infinite
+Blocked Total                                   402  Infinite
+Blocked A to B                                  294  Infinite
+Blocked B to A                                  108  Infinite
+Successful B to A                              5433  Infinite
+Successful A to B                              6611  Infinite
+
+Beginning replication 26 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 26 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11859  Infinite
+Blocked Total                                   552  Infinite
+Blocked A to B                                  370  Infinite
+Blocked B to A                                  182  Infinite
+Successful B to A                              5407  Infinite
+Successful A to B                              6465  Infinite
+
+Beginning replication 27 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 27 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11886  Infinite
+Blocked Total                                   423  Infinite
+Blocked A to B                                  361  Infinite
+Blocked B to A                                   62  Infinite
+Successful B to A                              5397  Infinite
+Successful A to B                              6499  Infinite
+
+Beginning replication 28 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 28 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11790  Infinite
+Blocked Total                                   448  Infinite
+Blocked A to B                                  391  Infinite
+Blocked B to A                                   57  Infinite
+Successful B to A                              5334  Infinite
+Successful A to B                              6453  Infinite
+
+Beginning replication 29 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 29 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11974  Infinite
+Blocked Total                                   402  Infinite
+Blocked A to B                                  317  Infinite
+Blocked B to A                                   85  Infinite
+Successful B to A                              5445  Infinite
+Successful A to B                              6521  Infinite
+
+Beginning replication 30 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 30 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11918  Infinite
+Blocked Total                                   468  Infinite
+Blocked A to B                                  335  Infinite
+Blocked B to A                                  133  Infinite
+Successful B to A                              5412  Infinite
+Successful A to B                              6504  Infinite
+
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.

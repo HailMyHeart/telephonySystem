@@ -1,0 +1,1974 @@
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 1 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             292.84     5.6994     .00000     2373.9       5420    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5420    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5420    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5420    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5420    
+call b2a.TotalTime                          292.84     5.6994     .00000     2373.9       5420    
+call a2b.VATime                             284.26     6.2727     .00000     2590.1       6779    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6779    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6779    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6779    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6779    
+call a2b.TotalTime                          284.26     6.2727     .00000     2590.1       6779    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.188     .53760     6.0000     34.000     25.000    
+call a2b.WIP                                23.259     .64148     6.0000     40.000     23.000    
+c.NumberBusy                                42.448     .63227     25.000     51.000     48.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .83232     .01240     .49020     1.0000     .94118    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11664  Infinite
+Blocked Total                                   535  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5425.0    
+call b2a.NumberOut                          5420.0    
+call a2b.NumberIn                           6779.0    
+call a2b.NumberOut                          6779.0    
+c.NumberSeized                              11669.    
+c.ScheduledUtilization                      .83232    
+System.NumberOut                            12199.    
+
+Beginning replication 2 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 2 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             295.47     8.7645     .00000     3359.6       5569    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5569    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5569    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5569    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5569    
+call b2a.TotalTime                          295.47     8.7645     .00000     3359.6       5569    
+call a2b.VATime                             283.56     7.3116     .00000     2563.7       6974    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6974    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6974    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6974    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6974    
+call a2b.TotalTime                          283.56     7.3116     .00000     2563.7       6974    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.888     .57941     8.0000     34.000     19.000    
+call a2b.WIP                                23.900     .63024     11.000     40.000     22.000    
+c.NumberBusy                                43.788     .64713     24.000     51.000     41.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .85859     .01269     .47059     1.0000     .80392    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11917  Infinite
+Blocked Total                                   626  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5570.0    
+call b2a.NumberOut                          5569.0    
+call a2b.NumberIn                           6973.0    
+call a2b.NumberOut                          6974.0    
+c.NumberSeized                              11917.    
+c.ScheduledUtilization                      .85859    
+System.NumberOut                            12543.    
+
+Beginning replication 3 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 3 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             291.20     7.5121     .00000     4060.4       5413    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5413    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5413    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5413    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5413    
+call b2a.TotalTime                          291.20     7.5121     .00000     4060.4       5413    
+call a2b.VATime                             283.08     6.3302     .00000     2356.0       6967    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6967    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6967    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6967    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6967    
+call a2b.TotalTime                          283.08     6.3302     .00000     2356.0       6967    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                18.981     .50183     6.0000     33.000     15.000    
+call a2b.WIP                                23.863     .62099     9.0000     39.000     25.000    
+c.NumberBusy                                42.845     .61053     23.000     51.000     40.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84010     .01197     .45098     1.0000     .78431    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11894  Infinite
+Blocked Total                                   486  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5408.0    
+call b2a.NumberOut                          5413.0    
+call a2b.NumberIn                           6973.0    
+call a2b.NumberOut                          6967.0    
+c.NumberSeized                              11895.    
+c.ScheduledUtilization                      .84010    
+System.NumberOut                            12380.    
+
+Beginning replication 4 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 4 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             286.99     9.0956     .00000     2398.8       5518    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5518    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5518    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5518    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5518    
+call b2a.TotalTime                          286.99     9.0956     .00000     2398.8       5518    
+call a2b.VATime                             294.12     6.0634     .00000     3021.4       6799    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6799    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6799    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6799    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6799    
+call a2b.TotalTime                          294.12     6.0634     .00000     3021.4       6799    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.160     .63486     4.0000     34.000     22.000    
+call a2b.WIP                                24.155     .64877     8.0000     39.000     26.000    
+c.NumberBusy                                43.316     .53414     25.000     51.000     48.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84934     .01047     .49020     1.0000     .94118    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11814  Infinite
+Blocked Total                                   503  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5521.0    
+call b2a.NumberOut                          5518.0    
+call a2b.NumberIn                           6801.0    
+call a2b.NumberOut                          6799.0    
+c.NumberSeized                              11819.    
+c.ScheduledUtilization                      .84934    
+System.NumberOut                            12317.    
+
+Beginning replication 5 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 5 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             283.91     8.5559     .00000     3095.5       5446    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5446    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5446    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5446    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5446    
+call b2a.TotalTime                          283.91     8.5559     .00000     3095.5       5446    
+call a2b.VATime                             287.03     6.5781     .00000     2604.2       6939    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6939    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6939    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6939    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6939    
+call a2b.TotalTime                          287.03     6.5781     .00000     2604.2       6939    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                18.618     .57636     6.0000     35.000     15.000    
+call a2b.WIP                                24.065     .82227     10.000     38.000     31.000    
+c.NumberBusy                                42.683     .75733     23.000     51.000     46.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .83693     .01485     .45098     1.0000     .90196    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11930  Infinite
+Blocked Total                                   455  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5440.0    
+call b2a.NumberOut                          5446.0    
+call a2b.NumberIn                           6947.0    
+call a2b.NumberOut                          6939.0    
+c.NumberSeized                              11932.    
+c.ScheduledUtilization                      .83693    
+System.NumberOut                            12385.    
+
+Beginning replication 6 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 6 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             286.78     7.8488     .00000     2708.0       5491    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5491    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5491    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5491    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5491    
+call b2a.TotalTime                          286.78     7.8488     .00000     2708.0       5491    
+call a2b.VATime                             285.31     6.1018     .00000     3451.2       6942    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6942    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6942    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6942    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6942    
+call a2b.TotalTime                          285.31     6.1018     .00000     3451.2       6942    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.002     .67830     7.0000     32.000     13.000    
+call a2b.WIP                                23.972     .62544     8.0000     39.000     29.000    
+c.NumberBusy                                42.974     .61412     20.000     51.000     42.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84264     .01204     .39216     1.0000     .82353    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11808  Infinite
+Blocked Total                                   625  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5492.0    
+call b2a.NumberOut                          5491.0    
+call a2b.NumberIn                           6952.0    
+call a2b.NumberOut                          6942.0    
+c.NumberSeized                              11819.    
+c.ScheduledUtilization                      .84264    
+System.NumberOut                            12433.    
+
+Beginning replication 7 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 7 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             279.20     (Corr)     .00000     2348.8       5482    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5482    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5482    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5482    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5482    
+call b2a.TotalTime                          279.20     (Corr)     .00000     2348.8       5482    
+call a2b.VATime                             291.32     6.3632     .00000     2723.8       6714    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6714    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6714    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6714    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6714    
+call a2b.TotalTime                          291.32     6.3632     .00000     2723.8       6714    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                18.513     .49496     5.0000     34.000     22.000    
+call a2b.WIP                                23.678     .68713     7.0000     41.000     29.000    
+c.NumberBusy                                42.192     .74493     24.000     51.000     51.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .82730     .01461     .47059     1.0000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11684  Infinite
+Blocked Total                                   512  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5491.0    
+call b2a.NumberOut                          5482.0    
+call a2b.NumberIn                           6720.0    
+call a2b.NumberOut                          6714.0    
+c.NumberSeized                              11699.    
+c.ScheduledUtilization                      .82730    
+System.NumberOut                            12196.    
+
+Beginning replication 8 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 8 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             283.38     8.8837     .00000     3371.4       5500    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5500    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5500    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5500    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5500    
+call b2a.TotalTime                          283.38     8.8837     .00000     3371.4       5500    
+call a2b.VATime                             287.78     5.4218     .00000     2316.7       6871    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6871    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6871    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6871    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6871    
+call a2b.TotalTime                          287.78     5.4218     .00000     2316.7       6871    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                18.824     .61221     6.0000     35.000     17.000    
+call a2b.WIP                                23.865     .63128     8.0000     40.000     22.000    
+c.NumberBusy                                42.689     .60120     22.000     51.000     39.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .83705     .01179     .43137     1.0000     .76471    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11842  Infinite
+Blocked Total                                   529  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5497.0    
+call b2a.NumberOut                          5500.0    
+call a2b.NumberIn                           6871.0    
+call a2b.NumberOut                          6871.0    
+c.NumberSeized                              11839.    
+c.ScheduledUtilization                      .83705    
+System.NumberOut                            12371.    
+
+Beginning replication 9 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 9 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             288.04     8.2506     .00000     3511.2       5592    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5592    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5592    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5592    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5592    
+call b2a.TotalTime                          288.04     8.2506     .00000     3511.2       5592    
+call a2b.VATime                             283.29     6.0336     .00000     2651.0       6857    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6857    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6857    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6857    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6857    
+call a2b.TotalTime                          283.29     6.0336     .00000     2651.0       6857    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.463     .59629     6.0000     35.000     23.000    
+call a2b.WIP                                23.543     .56124     12.000     37.000     26.000    
+c.NumberBusy                                43.007     .67770     26.000     51.000     49.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84327     .01329     .50980     1.0000     .96078    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11886  Infinite
+Blocked Total                                   563  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5593.0    
+call b2a.NumberOut                          5592.0    
+call a2b.NumberIn                           6855.0    
+call a2b.NumberOut                          6857.0    
+c.NumberSeized                              11885.    
+c.ScheduledUtilization                      .84327    
+System.NumberOut                            12449.    
+
+Beginning replication 10 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 10 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             288.62     7.6969     .00000     3453.6       5463    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5463    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5463    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5463    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5463    
+call b2a.TotalTime                          288.62     7.6969     .00000     3453.6       5463    
+call a2b.VATime                             285.73     6.7887     .00000     2672.8       6958    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6958    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6958    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6958    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6958    
+call a2b.TotalTime                          285.73     6.7887     .00000     2672.8       6958    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.020     .59873     6.0000     35.000     15.000    
+call a2b.WIP                                24.001     .61412     7.0000     36.000     16.000    
+c.NumberBusy                                43.022     .82887     22.000     51.000     31.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84357     .01625     .43137     1.0000     .60784    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11845  Infinite
+Blocked Total                                   576  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5456.0    
+call b2a.NumberOut                          5463.0    
+call a2b.NumberIn                           6946.0    
+call a2b.NumberOut                          6958.0    
+c.NumberSeized                              11826.    
+c.ScheduledUtilization                      .84357    
+System.NumberOut                            12421.    
+
+Beginning replication 11 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 11 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             286.73     8.1929     .00000     3204.4       5582    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5582    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5582    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5582    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5582    
+call b2a.TotalTime                          286.73     8.1929     .00000     3204.4       5582    
+call a2b.VATime                             290.46     7.3371     .00000     2610.0       6786    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6786    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6786    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6786    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6786    
+call a2b.TotalTime                          290.46     7.3371     .00000     2610.0       6786    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.313     .66695     6.0000     34.000     16.000    
+call a2b.WIP                                23.805     .70748     8.0000     40.000     24.000    
+c.NumberBusy                                43.118     .76326     23.000     51.000     40.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84546     .01497     .45098     1.0000     .78431    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11709  Infinite
+Blocked Total                                   659  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5578.0    
+call b2a.NumberOut                          5582.0    
+call a2b.NumberIn                           6783.0    
+call a2b.NumberOut                          6786.0    
+c.NumberSeized                              11702.    
+c.ScheduledUtilization                      .84546    
+System.NumberOut                            12368.    
+
+Beginning replication 12 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 12 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             287.37     6.8830     .00000     2511.8       5477    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5477    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5477    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5477    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5477    
+call b2a.TotalTime                          287.37     6.8830     .00000     2511.8       5477    
+call a2b.VATime                             287.18     6.4295     .00000     2588.0       6886    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6886    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6886    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6886    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6886    
+call a2b.TotalTime                          287.18     6.4295     .00000     2588.0       6886    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.000     .68927     7.0000     35.000     14.000    
+call a2b.WIP                                23.896     .75572     10.000     41.000     21.000    
+c.NumberBusy                                42.896     .85881     22.000     51.000     35.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84111     .01684     .43137     1.0000     .68627    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11857  Infinite
+Blocked Total                                   506  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5473.0    
+call b2a.NumberOut                          5477.0    
+call a2b.NumberIn                           6884.0    
+call a2b.NumberOut                          6886.0    
+c.NumberSeized                              11851.    
+c.ScheduledUtilization                      .84111    
+System.NumberOut                            12363.    
+
+Beginning replication 13 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 13 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             290.93     9.0001     .00000     3166.7       5576    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5576    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5576    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5576    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5576    
+call b2a.TotalTime                          290.93     9.0001     .00000     3166.7       5576    
+call a2b.VATime                             280.57     6.0685     .00000     2841.9       6876    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6876    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6876    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6876    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6876    
+call a2b.TotalTime                          280.57     6.0685     .00000     2841.9       6876    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.592     .57311     4.0000     35.000     24.000    
+call a2b.WIP                                23.276     .60446     7.0000     36.000     21.000    
+c.NumberBusy                                42.869     .68833     22.000     51.000     45.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84057     .01350     .43137     1.0000     .88235    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11898  Infinite
+Blocked Total                                   554  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5580.0    
+call b2a.NumberOut                          5576.0    
+call a2b.NumberIn                           6866.0    
+call a2b.NumberOut                          6876.0    
+c.NumberSeized                              11892.    
+c.ScheduledUtilization                      .84057    
+System.NumberOut                            12452.    
+
+Beginning replication 14 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 14 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             288.82     9.5829     .00000     3289.7       5563    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5563    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5563    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5563    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5563    
+call b2a.TotalTime                          288.82     9.5829     .00000     3289.7       5563    
+call a2b.VATime                             284.58     7.0663     .00000     2681.3       6893    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6893    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6893    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6893    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6893    
+call a2b.TotalTime                          284.58     7.0663     .00000     2681.3       6893    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.379     (Corr)     7.0000     35.000     15.000    
+call a2b.WIP                                23.721     .77432     9.0000     40.000     36.000    
+c.NumberBusy                                43.100     .74259     20.000     51.000     51.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84511     .01456     .39216     1.0000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11848  Infinite
+Blocked Total                                   608  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5559.0    
+call b2a.NumberOut                          5563.0    
+call a2b.NumberIn                           6904.0    
+call a2b.NumberOut                          6893.0    
+c.NumberSeized                              11855.    
+c.ScheduledUtilization                      .84511    
+System.NumberOut                            12456.    
+
+Beginning replication 15 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 15 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             280.40     7.3189     .00000     2432.0       5621    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5621    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5621    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5621    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5621    
+call b2a.TotalTime                          280.40     7.3189     .00000     2432.0       5621    
+call a2b.VATime                             288.12     6.4155     .00000     2197.4       6858    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6858    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6858    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6858    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6858    
+call a2b.TotalTime                          288.12     6.4155     .00000     2197.4       6858    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.044     .55096     7.0000     32.000     18.000    
+call a2b.WIP                                23.890     .74921     7.0000     39.000     27.000    
+c.NumberBusy                                42.935     .82384     24.000     51.000     45.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84186     .01615     .47059     1.0000     .88235    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11901  Infinite
+Blocked Total                                   578  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5615.0    
+call b2a.NumberOut                          5621.0    
+call a2b.NumberIn                           6866.0    
+call a2b.NumberOut                          6858.0    
+c.NumberSeized                              11903.    
+c.ScheduledUtilization                      .84186    
+System.NumberOut                            12479.    
+
+Beginning replication 16 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 16 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             284.04     7.8008     .00000     2632.8       5568    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5568    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5568    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5568    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5568    
+call b2a.TotalTime                          284.04     7.8008     .00000     2632.8       5568    
+call a2b.VATime                             282.67     7.4866     .00000     4255.3       6951    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6951    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6951    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6951    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6951    
+call a2b.TotalTime                          282.67     7.4866     .00000     4255.3       6951    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.113     .61248     5.0000     34.000     21.000    
+call a2b.WIP                                23.736     .69800     9.0000     39.000     30.000    
+c.NumberBusy                                42.850     .66170     26.000     51.000     51.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84020     .01297     .50980     1.0000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11878  Infinite
+Blocked Total                                   641  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5567.0    
+call b2a.NumberOut                          5568.0    
+call a2b.NumberIn                           6955.0    
+call a2b.NumberOut                          6951.0    
+c.NumberSeized                              11881.    
+c.ScheduledUtilization                      .84020    
+System.NumberOut                            12519.    
+
+Beginning replication 17 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 17 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             288.70     (Corr)     .00000     2900.8       5412    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5412    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5412    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5412    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5412    
+call b2a.TotalTime                          288.70     (Corr)     .00000     2900.8       5412    
+call a2b.VATime                             288.17     7.2225     .00000     2380.3       6936    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6936    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6936    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6936    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6936    
+call a2b.TotalTime                          288.17     7.2225     .00000     2380.3       6936    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                18.876     .62797     6.0000     32.000     20.000    
+call a2b.WIP                                24.147     .78485     11.000     41.000     14.000    
+c.NumberBusy                                43.023     .68300     26.000     51.000     34.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84360     .01339     .50980     1.0000     .66667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11783  Infinite
+Blocked Total                                   565  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5409.0    
+call b2a.NumberOut                          5412.0    
+call a2b.NumberIn                           6935.0    
+call a2b.NumberOut                          6936.0    
+c.NumberSeized                              11779.    
+c.ScheduledUtilization                      .84360    
+System.NumberOut                            12348.    
+
+Beginning replication 18 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 18 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             293.87     8.0120     .00000     3258.3       5342    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5342    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5342    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5342    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5342    
+call b2a.TotalTime                          293.87     8.0120     .00000     3258.3       5342    
+call a2b.VATime                             284.75     6.5146     .00000     2240.8       6873    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6873    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6873    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6873    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6873    
+call a2b.TotalTime                          284.75     6.5146     .00000     2240.8       6873    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                18.966     .61686     8.0000     33.000     23.000    
+call a2b.WIP                                23.623     .70021     8.0000     38.000     22.000    
+c.NumberBusy                                42.590     (Corr)     25.000     51.000     45.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .83511     (Corr)     .49020     1.0000     .88235    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11703  Infinite
+Blocked Total                                   512  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5341.0    
+call b2a.NumberOut                          5342.0    
+call a2b.NumberIn                           6868.0    
+call a2b.NumberOut                          6873.0    
+c.NumberSeized                              11697.    
+c.ScheduledUtilization                      .83511    
+System.NumberOut                            12215.    
+
+Beginning replication 19 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 19 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             282.54     6.5150     .00000     2503.0       5628    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5628    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5628    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5628    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5628    
+call b2a.TotalTime                          282.54     6.5150     .00000     2503.0       5628    
+call a2b.VATime                             285.04     6.7637     .00000     3086.7       6895    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6895    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6895    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6895    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6895    
+call a2b.TotalTime                          285.04     6.7637     .00000     3086.7       6895    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.231     .61007     4.0000     33.000     17.000    
+call a2b.WIP                                23.717     .65683     7.0000     38.000     23.000    
+c.NumberBusy                                42.948     .72619     25.000     51.000     40.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84213     .01424     .49020     1.0000     .78431    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11926  Infinite
+Blocked Total                                   597  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5631.0    
+call b2a.NumberOut                          5628.0    
+call a2b.NumberIn                           6890.0    
+call a2b.NumberOut                          6895.0    
+c.NumberSeized                              11924.    
+c.ScheduledUtilization                      .84213    
+System.NumberOut                            12523.    
+
+Beginning replication 20 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 20 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             286.66     7.1399     .00000     3120.5       5680    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5680    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5680    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5680    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5680    
+call b2a.TotalTime                          286.66     7.1399     .00000     3120.5       5680    
+call a2b.VATime                             285.70     4.7458     .00000     2733.9       6721    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6721    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6721    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6721    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6721    
+call a2b.TotalTime                          285.70     4.7458     .00000     2733.9       6721    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.646     (Corr)     5.0000     35.000     23.000    
+call a2b.WIP                                23.185     .57872     9.0000     36.000     27.000    
+c.NumberBusy                                42.832     .71874     23.000     51.000     50.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .83985     .01409     .45098     1.0000     .98039    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11914  Infinite
+Blocked Total                                   487  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5683.0    
+call b2a.NumberOut                          5680.0    
+call a2b.NumberIn                           6720.0    
+call a2b.NumberOut                          6721.0    
+c.NumberSeized                              11916.    
+c.ScheduledUtilization                      .83985    
+System.NumberOut                            12401.    
+
+Beginning replication 21 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 21 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             285.55     8.5527     .00000     2946.7       5661    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5661    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5661    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5661    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5661    
+call b2a.TotalTime                          285.55     8.5527     .00000     2946.7       5661    
+call a2b.VATime                             282.65     7.1880     .00000     2486.7       6894    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6894    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6894    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6894    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6894    
+call a2b.TotalTime                          282.65     7.1880     .00000     2486.7       6894    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.528     .57311     7.0000     33.000     22.000    
+call a2b.WIP                                23.528     .67443     7.0000     38.000     23.000    
+c.NumberBusy                                43.057     (Corr)     20.000     51.000     45.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84426     (Corr)     .39216     1.0000     .88235    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11903  Infinite
+Blocked Total                                   652  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5664.0    
+call b2a.NumberOut                          5661.0    
+call a2b.NumberIn                           6888.0    
+call a2b.NumberOut                          6894.0    
+c.NumberSeized                              11900.    
+c.ScheduledUtilization                      .84426    
+System.NumberOut                            12555.    
+
+Beginning replication 22 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 22 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             288.45     9.5150     .00000     2130.4       5442    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5442    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5442    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5442    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5442    
+call b2a.TotalTime                          288.45     9.5150     .00000     2130.4       5442    
+call a2b.VATime                             285.23     6.6312     .00000     2559.3       6951    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6951    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6951    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6951    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6951    
+call a2b.TotalTime                          285.23     6.6312     .00000     2559.3       6951    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                18.998     .59847     6.0000     34.000     26.000    
+call a2b.WIP                                23.927     .74053     10.000     43.000     22.000    
+c.NumberBusy                                42.925     .71118     25.000     51.000     48.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84168     .01394     .49020     1.0000     .94118    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11855  Infinite
+Blocked Total                                   538  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5450.0    
+call b2a.NumberOut                          5442.0    
+call a2b.NumberIn                           6946.0    
+call a2b.NumberOut                          6951.0    
+c.NumberSeized                              11858.    
+c.ScheduledUtilization                      .84168    
+System.NumberOut                            12393.    
+
+Beginning replication 23 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 23 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             287.54     9.0952     .00000     2438.5       5447    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5447    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5447    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5447    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5447    
+call b2a.TotalTime                          287.54     9.0952     .00000     2438.5       5447    
+call a2b.VATime                             287.43     7.6856     .00000     2163.9       6966    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6966    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6966    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6966    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6966    
+call a2b.TotalTime                          287.43     7.6856     .00000     2163.9       6966    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                18.893     .77088     6.0000     34.000     20.000    
+call a2b.WIP                                24.199     .63666     9.0000     40.000     28.000    
+c.NumberBusy                                43.092     .64106     25.000     51.000     48.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84495     .01257     .49020     1.0000     .94118    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11759  Infinite
+Blocked Total                                   654  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5449.0    
+call b2a.NumberOut                          5447.0    
+call a2b.NumberIn                           6967.0    
+call a2b.NumberOut                          6966.0    
+c.NumberSeized                              11762.    
+c.ScheduledUtilization                      .84495    
+System.NumberOut                            12413.    
+
+Beginning replication 24 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 24 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             290.57     (Corr)     .00000     3279.0       5567    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5567    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5567    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5567    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5567    
+call b2a.TotalTime                          290.57     (Corr)     .00000     3279.0       5567    
+call a2b.VATime                             287.23     6.8635     .00000     2402.5       6777    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6777    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6777    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6777    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6777    
+call a2b.TotalTime                          287.23     6.8635     .00000     2402.5       6777    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.534     .62821     6.0000     32.000     23.000    
+call a2b.WIP                                23.427     .65692     8.0000     40.000     19.000    
+c.NumberBusy                                42.961     .75733     24.000     51.000     42.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84239     .01485     .47059     1.0000     .82353    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11739  Infinite
+Blocked Total                                   605  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5567.0    
+call b2a.NumberOut                          5567.0    
+call a2b.NumberIn                           6772.0    
+call a2b.NumberOut                          6777.0    
+c.NumberSeized                              11734.    
+c.ScheduledUtilization                      .84239    
+System.NumberOut                            12344.    
+
+Beginning replication 25 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 25 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             288.94     6.3230     .00000     2266.8       5585    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5585    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5585    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5585    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5585    
+call b2a.TotalTime                          288.94     6.3230     .00000     2266.8       5585    
+call a2b.VATime                             282.14     6.1928     .00000     2738.7       6927    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6927    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6927    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6927    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6927    
+call a2b.TotalTime                          282.14     6.1928     .00000     2738.7       6927    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.489     .55548     7.0000     34.000     20.000    
+call a2b.WIP                                23.572     .64268     9.0000     37.000     25.000    
+c.NumberBusy                                43.062     .69066     24.000     51.000     45.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84436     .01354     .47059     1.0000     .88235    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11958  Infinite
+Blocked Total                                   554  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5580.0    
+call b2a.NumberOut                          5585.0    
+call a2b.NumberIn                           6926.0    
+call a2b.NumberOut                          6927.0    
+c.NumberSeized                              11952.    
+c.ScheduledUtilization                      .84436    
+System.NumberOut                            12512.    
+
+Beginning replication 26 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 26 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             292.11     8.4976     .00000     2641.2       5563    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5563    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5563    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5563    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5563    
+call b2a.TotalTime                          292.11     8.4976     .00000     2641.2       5563    
+call a2b.VATime                             288.68     6.3905     .00000     3127.8       6873    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6873    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6873    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6873    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6873    
+call a2b.TotalTime                          288.68     6.3905     .00000     3127.8       6873    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.593     .61098     6.0000     35.000     13.000    
+call a2b.WIP                                23.975     .61145     11.000     39.000     33.000    
+c.NumberBusy                                43.569     .59099     24.000     51.000     46.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .85429     .01159     .47059     1.0000     .90196    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11758  Infinite
+Blocked Total                                   678  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5557.0    
+call b2a.NumberOut                          5563.0    
+call a2b.NumberIn                           6880.0    
+call a2b.NumberOut                          6873.0    
+c.NumberSeized                              11759.    
+c.ScheduledUtilization                      .85429    
+System.NumberOut                            12436.    
+
+Beginning replication 27 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 27 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             289.14     7.8688     .00000     2545.1       5460    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5460    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5460    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5460    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5460    
+call b2a.TotalTime                          289.14     7.8688     .00000     2545.1       5460    
+call a2b.VATime                             289.62     8.5026     .00000     2606.0       6915    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6915    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6915    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6915    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6915    
+call a2b.TotalTime                          289.62     8.5026     .00000     2606.0       6915    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                19.064     .55832     5.0000     31.000     20.000    
+call a2b.WIP                                24.229     .61443     10.000     39.000     29.000    
+c.NumberBusy                                43.293     .63135     23.000     51.000     49.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .84890     .01238     .45098     1.0000     .96078    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11855  Infinite
+Blocked Total                                   520  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5461.0    
+call b2a.NumberOut                          5460.0    
+call a2b.NumberIn                           6927.0    
+call a2b.NumberOut                          6915.0    
+c.NumberSeized                              11868.    
+c.ScheduledUtilization                      .84890    
+System.NumberOut                            12375.    
+
+Beginning replication 28 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 28 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             283.82     7.3899     .00000     4220.9       5409    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5409    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5409    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5409    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5409    
+call b2a.TotalTime                          283.82     7.3899     .00000     4220.9       5409    
+call a2b.VATime                             294.02     7.4864     .00000     2604.0       6779    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6779    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6779    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6779    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6779    
+call a2b.TotalTime                          294.02     7.4864     .00000     2604.0       6779    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                18.537     .67994     4.0000     33.000     17.000    
+call a2b.WIP                                24.068     .60181     12.000     38.000     22.000    
+c.NumberBusy                                42.606     .61310     18.000     51.000     39.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .83542     .01202     .35294     1.0000     .76471    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11697  Infinite
+Blocked Total                                   491  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5409.0    
+call b2a.NumberOut                          5409.0    
+call a2b.NumberIn                           6774.0    
+call a2b.NumberOut                          6779.0    
+c.NumberSeized                              11692.    
+c.ScheduledUtilization                      .83542    
+System.NumberOut                            12188.    
+
+Beginning replication 29 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 29 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             283.59     7.7390     .00000     2566.2       5494    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5494    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5494    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5494    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5494    
+call b2a.TotalTime                          283.59     7.7390     .00000     2566.2       5494    
+call a2b.VATime                             289.77     6.3683     .00000     3956.4       6864    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6864    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6864    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6864    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6864    
+call a2b.TotalTime                          289.77     6.3683     .00000     3956.4       6864    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                18.801     .65951     6.0000     34.000     19.000    
+call a2b.WIP                                23.940     .66466     8.0000     39.000     19.000    
+c.NumberBusy                                42.742     .78476     21.000     51.000     38.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .83808     .01539     .41176     1.0000     .74510    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11778  Infinite
+Blocked Total                                   580  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5499.0    
+call b2a.NumberOut                          5494.0    
+call a2b.NumberIn                           6847.0    
+call a2b.NumberOut                          6864.0    
+c.NumberSeized                              11766.    
+c.ScheduledUtilization                      .83808    
+System.NumberOut                            12358.    
+
+Beginning replication 30 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 30 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call b2a.VATime                             279.19     6.8162     .00000     2868.4       5439    
+call b2a.NVATime                            .00000     .00000     .00000     .00000       5439    
+call b2a.WaitTime                           .00000     .00000     .00000     .00000       5439    
+call b2a.TranTime                           .00000     .00000     .00000     .00000       5439    
+call b2a.OtherTime                          .00000     .00000     .00000     .00000       5439    
+call b2a.TotalTime                          279.19     6.8162     .00000     2868.4       5439    
+call a2b.VATime                             289.59     5.4461     .00000     2721.9       6775    
+call a2b.NVATime                            .00000     .00000     .00000     .00000       6775    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000       6775    
+call a2b.TranTime                           .00000     .00000     .00000     .00000       6775    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000       6775    
+call a2b.TotalTime                          289.59     5.4461     .00000     2721.9       6775    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call b2a.WIP                                18.350     .62569     5.0000     32.000     24.000    
+call a2b.WIP                                23.721     .66597     9.0000     40.000     25.000    
+c.NumberBusy                                42.071     .76535     22.000     51.000     49.000    
+c.NumberScheduled                           51.000     (Insuf)    51.000     51.000     51.000    
+c.Utilization                               .82493     .01501     .43137     1.0000     .96078    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11762  Infinite
+Blocked Total                                   452  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call b2a.NumberIn                           5440.0    
+call b2a.NumberOut                          5439.0    
+call a2b.NumberIn                           6772.0    
+call a2b.NumberOut                          6775.0    
+c.NumberSeized                              11760.    
+c.ScheduledUtilization                      .82493    
+System.NumberOut                            12214.    
+
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                 Output Summary for 30 Replications
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+call b2a.NumberIn                           5513.5     31.502     5341.0     5683.0     30
+call b2a.NumberOut                          5513.6     31.450     5342.0     5680.0     30
+call a2b.NumberIn                           6872.9     28.537     6720.0     6973.0     30
+call a2b.NumberOut                          6873.2     28.148     6714.0     6974.0     30
+c.NumberSeized                              11825.     31.205     11669.     11952.     30
+c.ScheduledUtilization                      .84151     .00254     .82493     .85859     30
+System.NumberOut                            12386.     38.814     12188.     12555.     30
+
+Simulation run time: 0.10 minutes.
+Simulation run complete.

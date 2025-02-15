@@ -1,0 +1,1491 @@
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 1 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.148     .43721     9.0000     28.000     24.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82672     .01561     .32143     1.0000     .85714    
+b2a.NumberBusy                              20.208     .61456     6.0000     30.000     24.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .67363     .02049     .20000     1.0000     .80000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11734  Infinite
+Blocked Total                                   663  Infinite
+Blocked A to B                                  625  Infinite
+Blocked B to A                                   38  Infinite
+Successful B to A                              5469  Infinite
+Successful A to B                              6273  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6273.0    
+a2b.ScheduledUtilization                    .82672    
+b2a.NumberSeized                            5469.0    
+b2a.ScheduledUtilization                    .67363    
+
+Beginning replication 2 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 2 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.815     .49036     10.000     28.000     27.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .81485     .01751     .35714     1.0000     .96429    
+b2a.NumberBusy                              19.798     .70795     6.0000     30.000     25.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65994     .02360     .20000     1.0000     .83333    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11761  Infinite
+Blocked Total                                   598  Infinite
+Blocked A to B                                  550  Infinite
+Blocked B to A                                   48  Infinite
+Successful B to A                              5407  Infinite
+Successful A to B                              6365  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6365.0    
+a2b.ScheduledUtilization                    .81485    
+b2a.NumberSeized                            5407.0    
+b2a.ScheduledUtilization                    .65994    
+
+Beginning replication 3 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 3 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.930     .46228     9.0000     28.000     26.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .81894     .01651     .32143     1.0000     .92857    
+b2a.NumberBusy                              19.999     .59314     7.0000     30.000     23.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .66666     .01977     .23333     1.0000     .76667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11871  Infinite
+Blocked Total                                   546  Infinite
+Blocked A to B                                  508  Infinite
+Blocked B to A                                   38  Infinite
+Successful B to A                              5521  Infinite
+Successful A to B                              6365  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6365.0    
+a2b.ScheduledUtilization                    .81894    
+b2a.NumberSeized                            5521.0    
+b2a.ScheduledUtilization                    .66666    
+
+Beginning replication 4 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 4 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.027     .46952     10.000     28.000     23.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82243     .01677     .35714     1.0000     .82143    
+b2a.NumberBusy                              20.160     .60479     5.0000     30.000     21.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .67202     .02016     .16667     1.0000     .70000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11769  Infinite
+Blocked Total                                   543  Infinite
+Blocked A to B                                  501  Infinite
+Blocked B to A                                   42  Infinite
+Successful B to A                              5442  Infinite
+Successful A to B                              6338  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6338.0    
+a2b.ScheduledUtilization                    .82243    
+b2a.NumberSeized                            5442.0    
+b2a.ScheduledUtilization                    .67202    
+
+Beginning replication 5 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 5 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.833     .56522     9.0000     28.000     22.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .81547     .02019     .32143     1.0000     .78571    
+b2a.NumberBusy                              19.969     .72059     7.0000     30.000     20.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .66565     .02402     .23333     1.0000     .66667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11845  Infinite
+Blocked Total                                   664  Infinite
+Blocked A to B                                  607  Infinite
+Blocked B to A                                   57  Infinite
+Successful B to A                              5482  Infinite
+Successful A to B                              6358  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6358.0    
+a2b.ScheduledUtilization                    .81547    
+b2a.NumberSeized                            5482.0    
+b2a.ScheduledUtilization                    .66565    
+
+Beginning replication 6 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 6 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.076     .52327     9.0000     28.000     15.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82416     .01869     .32143     1.0000     .53571    
+b2a.NumberBusy                              19.469     .65581     5.0000     30.000     18.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .64898     .02186     .16667     1.0000     .60000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11733  Infinite
+Blocked Total                                   664  Infinite
+Blocked A to B                                  608  Infinite
+Blocked B to A                                   56  Infinite
+Successful B to A                              5387  Infinite
+Successful A to B                              6349  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6349.0    
+a2b.ScheduledUtilization                    .82416    
+b2a.NumberSeized                            5387.0    
+b2a.ScheduledUtilization                    .64898    
+
+Beginning replication 7 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 7 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.965     .39364     10.000     28.000     26.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82019     .01406     .35714     1.0000     .92857    
+b2a.NumberBusy                              19.675     .76214     7.0000     30.000     24.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65584     .02540     .23333     1.0000     .80000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11679  Infinite
+Blocked Total                                   630  Infinite
+Blocked A to B                                  555  Infinite
+Blocked B to A                                   75  Infinite
+Successful B to A                              5450  Infinite
+Successful A to B                              6243  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6243.0    
+a2b.ScheduledUtilization                    .82019    
+b2a.NumberSeized                            5450.0    
+b2a.ScheduledUtilization                    .65584    
+
+Beginning replication 8 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 8 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.142     .39331     10.000     28.000     17.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82652     .01405     .35714     1.0000     .60714    
+b2a.NumberBusy                              19.928     .65757     6.0000     30.000     23.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .66429     .02192     .20000     1.0000     .76667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11819  Infinite
+Blocked Total                                   675  Infinite
+Blocked A to B                                  638  Infinite
+Blocked B to A                                   37  Infinite
+Successful B to A                              5515  Infinite
+Successful A to B                              6307  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6307.0    
+a2b.ScheduledUtilization                    .82652    
+b2a.NumberSeized                            5515.0    
+b2a.ScheduledUtilization                    .66429    
+
+Beginning replication 9 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 9 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.067     .39992     10.000     28.000     22.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82383     .01428     .35714     1.0000     .78571    
+b2a.NumberBusy                              19.638     .76832     8.0000     30.000     20.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65462     .02561     .26667     1.0000     .66667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11791  Infinite
+Blocked Total                                   667  Infinite
+Blocked A to B                                  607  Infinite
+Blocked B to A                                   60  Infinite
+Successful B to A                              5455  Infinite
+Successful A to B                              6337  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6337.0    
+a2b.ScheduledUtilization                    .82383    
+b2a.NumberSeized                            5455.0    
+b2a.ScheduledUtilization                    .65462    
+
+Beginning replication 10 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 10 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.068     .53063     9.0000     28.000     22.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82388     .01895     .32143     1.0000     .78571    
+b2a.NumberBusy                              19.896     .68705     7.0000     30.000     22.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .66322     .02290     .23333     1.0000     .73333    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11773  Infinite
+Blocked Total                                   693  Infinite
+Blocked A to B                                  645  Infinite
+Blocked B to A                                   48  Infinite
+Successful B to A                              5477  Infinite
+Successful A to B                              6299  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6299.0    
+a2b.ScheduledUtilization                    .82388    
+b2a.NumberSeized                            5477.0    
+b2a.ScheduledUtilization                    .66322    
+
+Beginning replication 11 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 11 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.190     .43289     10.000     28.000     25.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82822     .01546     .35714     1.0000     .89286    
+b2a.NumberBusy                              19.671     (Corr)     7.0000     30.000     19.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65571     (Corr)     .23333     1.0000     .63333    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11654  Infinite
+Blocked Total                                   692  Infinite
+Blocked A to B                                  653  Infinite
+Blocked B to A                                   39  Infinite
+Successful B to A                              5374  Infinite
+Successful A to B                              6277  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6277.0    
+a2b.ScheduledUtilization                    .82822    
+b2a.NumberSeized                            5374.0    
+b2a.ScheduledUtilization                    .65571    
+
+Beginning replication 12 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 12 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.088     .54210     9.0000     28.000     23.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82458     .01936     .32143     1.0000     .82143    
+b2a.NumberBusy                              20.042     .65462     6.0000     30.000     29.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .66807     .02182     .20000     1.0000     .96667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11813  Infinite
+Blocked Total                                   637  Infinite
+Blocked A to B                                  554  Infinite
+Blocked B to A                                   83  Infinite
+Successful B to A                              5491  Infinite
+Successful A to B                              6330  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6330.0    
+a2b.ScheduledUtilization                    .82458    
+b2a.NumberSeized                            5491.0    
+b2a.ScheduledUtilization                    .66807    
+
+Beginning replication 13 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 13 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.473     .45720     9.0000     28.000     20.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .80261     .01633     .32143     1.0000     .71429    
+b2a.NumberBusy                              20.344     .67331     8.0000     30.000     21.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .67816     .02244     .26667     1.0000     .70000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11909  Infinite
+Blocked Total                                   515  Infinite
+Blocked A to B                                  459  Infinite
+Blocked B to A                                   56  Infinite
+Successful B to A                              5573  Infinite
+Successful A to B                              6337  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6337.0    
+a2b.ScheduledUtilization                    .80261    
+b2a.NumberSeized                            5573.0    
+b2a.ScheduledUtilization                    .67816    
+
+Beginning replication 14 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 14 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.515     .44785     7.0000     28.000     21.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .80413     .01599     .25000     1.0000     .75000    
+b2a.NumberBusy                              19.764     .72700     6.0000     30.000     23.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65883     .02423     .20000     1.0000     .76667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11740  Infinite
+Blocked Total                                   588  Infinite
+Blocked A to B                                  537  Infinite
+Blocked B to A                                   51  Infinite
+Successful B to A                              5480  Infinite
+Successful A to B                              6257  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6257.0    
+a2b.ScheduledUtilization                    .80413    
+b2a.NumberSeized                            5480.0    
+b2a.ScheduledUtilization                    .65883    
+
+Beginning replication 15 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 15 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.802     (Corr)     9.0000     28.000     18.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .81439     (Corr)     .32143     1.0000     .64286    
+b2a.NumberBusy                              19.631     .68347     7.0000     30.000     17.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65438     .02278     .23333     1.0000     .56667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11825  Infinite
+Blocked Total                                   603  Infinite
+Blocked A to B                                  538  Infinite
+Blocked B to A                                   65  Infinite
+Successful B to A                              5469  Infinite
+Successful A to B                              6351  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6351.0    
+a2b.ScheduledUtilization                    .81439    
+b2a.NumberSeized                            5469.0    
+b2a.ScheduledUtilization                    .65438    
+
+Beginning replication 16 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 16 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.901     .42523     11.000     28.000     26.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .81790     .01519     .39286     1.0000     .92857    
+b2a.NumberBusy                              19.837     .60397     7.0000     30.000     20.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .66125     .02013     .23333     1.0000     .66667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11876  Infinite
+Blocked Total                                   617  Infinite
+Blocked A to B                                  577  Infinite
+Blocked B to A                                   40  Infinite
+Successful B to A                              5491  Infinite
+Successful A to B                              6389  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6389.0    
+a2b.ScheduledUtilization                    .81790    
+b2a.NumberSeized                            5491.0    
+b2a.ScheduledUtilization                    .66125    
+
+Beginning replication 17 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 17 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.031     .30083     11.000     28.000     24.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82255     .01074     .39286     1.0000     .85714    
+b2a.NumberBusy                              20.041     .61431     7.0000     30.000     17.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .66806     .02048     .23333     1.0000     .56667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11761  Infinite
+Blocked Total                                   620  Infinite
+Blocked A to B                                  561  Infinite
+Blocked B to A                                   59  Infinite
+Successful B to A                              5466  Infinite
+Successful A to B                              6291  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6291.0    
+a2b.ScheduledUtilization                    .82255    
+b2a.NumberSeized                            5466.0    
+b2a.ScheduledUtilization                    .66806    
+
+Beginning replication 18 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 18 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.227     .50240     9.0000     28.000     14.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82957     .01794     .32143     1.0000     .50000    
+b2a.NumberBusy                              19.656     .55748     8.0000     30.000     20.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65522     .01858     .26667     1.0000     .66667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11646  Infinite
+Blocked Total                                   698  Infinite
+Blocked A to B                                  674  Infinite
+Blocked B to A                                   24  Infinite
+Successful B to A                              5398  Infinite
+Successful A to B                              6231  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6231.0    
+a2b.ScheduledUtilization                    .82957    
+b2a.NumberSeized                            5398.0    
+b2a.ScheduledUtilization                    .65522    
+
+Beginning replication 19 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 19 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.151     .34630     11.000     28.000     25.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82684     .01237     .39286     1.0000     .89286    
+b2a.NumberBusy                              20.043     .56820     7.0000     30.000     17.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .66811     .01894     .23333     1.0000     .56667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11928  Infinite
+Blocked Total                                   644  Infinite
+Blocked A to B                                  572  Infinite
+Blocked B to A                                   72  Infinite
+Successful B to A                              5592  Infinite
+Successful A to B                              6340  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6340.0    
+a2b.ScheduledUtilization                    .82684    
+b2a.NumberSeized                            5592.0    
+b2a.ScheduledUtilization                    .66811    
+
+Beginning replication 20 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 20 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.901     .43314     9.0000     28.000     20.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .81789     .01547     .32143     1.0000     .71429    
+b2a.NumberBusy                              19.791     .79804     7.0000     30.000     13.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65972     .02660     .23333     1.0000     .43333    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11858  Infinite
+Blocked Total                                   564  Infinite
+Blocked A to B                                  518  Infinite
+Blocked B to A                                   46  Infinite
+Successful B to A                              5468  Infinite
+Successful A to B                              6373  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6373.0    
+a2b.ScheduledUtilization                    .81789    
+b2a.NumberSeized                            5468.0    
+b2a.ScheduledUtilization                    .65972    
+
+Beginning replication 21 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 21 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.678     .35630     11.000     28.000     23.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .80993     .01273     .39286     1.0000     .82143    
+b2a.NumberBusy                              19.574     .69076     6.0000     30.000     13.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65248     .02303     .20000     1.0000     .43333    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11881  Infinite
+Blocked Total                                   479  Infinite
+Blocked A to B                                  440  Infinite
+Blocked B to A                                   39  Infinite
+Successful B to A                              5413  Infinite
+Successful A to B                              6454  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6454.0    
+a2b.ScheduledUtilization                    .80993    
+b2a.NumberSeized                            5413.0    
+b2a.ScheduledUtilization                    .65248    
+
+Beginning replication 22 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 22 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.426     .63126     8.0000     28.000     24.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .80095     .02254     .28571     1.0000     .85714    
+b2a.NumberBusy                              19.318     .68809     7.0000     30.000     21.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .64396     .02294     .23333     1.0000     .70000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11652  Infinite
+Blocked Total                                   616  Infinite
+Blocked A to B                                  573  Infinite
+Blocked B to A                                   43  Infinite
+Successful B to A                              5439  Infinite
+Successful A to B                              6207  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6207.0    
+a2b.ScheduledUtilization                    .80095    
+b2a.NumberSeized                            5439.0    
+b2a.ScheduledUtilization                    .64396    
+
+Beginning replication 23 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 23 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.923     .42362     10.000     28.000     20.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .81869     .01513     .35714     1.0000     .71429    
+b2a.NumberBusy                              19.462     (Corr)     5.0000     30.000     21.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .64874     (Corr)     .16667     1.0000     .70000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11724  Infinite
+Blocked Total                                   555  Infinite
+Blocked A to B                                  503  Infinite
+Blocked B to A                                   52  Infinite
+Successful B to A                              5381  Infinite
+Successful A to B                              6343  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6343.0    
+a2b.ScheduledUtilization                    .81869    
+b2a.NumberSeized                            5381.0    
+b2a.ScheduledUtilization                    .64874    
+
+Beginning replication 24 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 24 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.969     .53094     10.000     28.000     21.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82033     .01896     .35714     1.0000     .75000    
+b2a.NumberBusy                              19.768     .72644     7.0000     30.000     24.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65895     .02421     .23333     1.0000     .80000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11706  Infinite
+Blocked Total                                   623  Infinite
+Blocked A to B                                  564  Infinite
+Blocked B to A                                   59  Infinite
+Successful B to A                              5445  Infinite
+Successful A to B                              6254  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6254.0    
+a2b.ScheduledUtilization                    .82033    
+b2a.NumberSeized                            5445.0    
+b2a.ScheduledUtilization                    .65895    
+
+Beginning replication 25 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 25 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.937     .45128     10.000     28.000     21.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .81921     .01612     .35714     1.0000     .75000    
+b2a.NumberBusy                              19.522     (Corr)     7.0000     30.000     20.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65074     (Corr)     .23333     1.0000     .66667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11835  Infinite
+Blocked Total                                   630  Infinite
+Blocked A to B                                  573  Infinite
+Blocked B to A                                   57  Infinite
+Successful B to A                              5422  Infinite
+Successful A to B                              6408  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6408.0    
+a2b.ScheduledUtilization                    .81921    
+b2a.NumberSeized                            5422.0    
+b2a.ScheduledUtilization                    .65074    
+
+Beginning replication 26 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 26 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.689     .47791     8.0000     28.000     25.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .81034     .01707     .28571     1.0000     .89286    
+b2a.NumberBusy                              20.428     .71778     6.0000     30.000     23.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .68096     .02393     .20000     1.0000     .76667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11743  Infinite
+Blocked Total                                   599  Infinite
+Blocked A to B                                  532  Infinite
+Blocked B to A                                   67  Infinite
+Successful B to A                              5530  Infinite
+Successful A to B                              6225  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6225.0    
+a2b.ScheduledUtilization                    .81034    
+b2a.NumberSeized                            5530.0    
+b2a.ScheduledUtilization                    .68096    
+
+Beginning replication 27 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 27 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.977     (Corr)     9.0000     28.000     15.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82064     (Corr)     .32143     1.0000     .53571    
+b2a.NumberBusy                              20.073     .71509     9.0000     30.000     29.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .66912     .02384     .30000     1.0000     .96667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11791  Infinite
+Blocked Total                                   582  Infinite
+Blocked A to B                                  541  Infinite
+Blocked B to A                                   41  Infinite
+Successful B to A                              5552  Infinite
+Successful A to B                              6244  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6244.0    
+a2b.ScheduledUtilization                    .82064    
+b2a.NumberSeized                            5552.0    
+b2a.ScheduledUtilization                    .66912    
+
+Beginning replication 28 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 28 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.095     .45769     7.0000     28.000     19.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82482     .01635     .25000     1.0000     .67857    
+b2a.NumberBusy                              19.747     .62114     6.0000     30.000     17.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .65824     .02070     .20000     1.0000     .56667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11636  Infinite
+Blocked Total                                   667  Infinite
+Blocked A to B                                  619  Infinite
+Blocked B to A                                   48  Infinite
+Successful B to A                              5378  Infinite
+Successful A to B                              6253  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6253.0    
+a2b.ScheduledUtilization                    .82482    
+b2a.NumberSeized                            5378.0    
+b2a.ScheduledUtilization                    .65824    
+
+Beginning replication 29 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 29 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              23.160     .49205     9.0000     28.000     26.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82717     .01757     .32143     1.0000     .92857    
+b2a.NumberBusy                              19.466     .70814     6.0000     30.000     11.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .64889     .02360     .20000     1.0000     .36667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11736  Infinite
+Blocked Total                                   623  Infinite
+Blocked A to B                                  580  Infinite
+Blocked B to A                                   43  Infinite
+Successful B to A                              5401  Infinite
+Successful A to B                              6333  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6333.0    
+a2b.ScheduledUtilization                    .82717    
+b2a.NumberSeized                            5401.0    
+b2a.ScheduledUtilization                    .64889    
+
+Beginning replication 30 of 30
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 30 of 30
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+Replication ended at time      : 86400.0 Seconds 
+Statistics were cleared at time: 3600.0 Seconds (Saturday, February 15, 2025, 01:00:00)
+Statistics accumulated for time: 82800.0 Seconds
+Base Time Units: Seconds
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+a2b.NumberBusy                              22.605     .39516     10.000     28.000     26.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .80735     .01411     .35714     1.0000     .92857    
+b2a.NumberBusy                              19.885     .64465     7.0000     30.000     23.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .66285     .02149     .23333     1.0000     .76667    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11756  Infinite
+Blocked Total                                   577  Infinite
+Blocked A to B                                  509  Infinite
+Blocked B to A                                   68  Infinite
+Successful B to A                              5458  Infinite
+Successful A to B                              6304  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+a2b.NumberSeized                            6304.0    
+a2b.ScheduledUtilization                    .80735    
+b2a.NumberSeized                            5458.0    
+b2a.ScheduledUtilization                    .66285    
+
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                 Output Summary for 30 Replications
+
+Project: Unnamed Project                                             Run execution date : 2/15/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/15/2025
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+a2b.NumberSeized                            6314.5     22.116     6207.0     6454.0     30
+a2b.ScheduledUtilization                    .81884     .00292     .80095     .82957     30
+b2a.NumberSeized                            5460.8     21.283     5374.0     5592.0     30
+b2a.ScheduledUtilization                    .66091     .00337     .64396     .68096     30
+
+Simulation run time: 0.10 minutes.
+Simulation run complete.

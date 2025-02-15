@@ -1,0 +1,450 @@
+
+
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/14/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/14/2025
+
+Replication ended at time      : 24.0 Hours 
+Statistics were cleared at time: 1.0 Hours (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 23.0 Hours
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call a2b.VATime                             .08158     .00121     .00000     .79310      12362    
+call a2b.NVATime                            .00000     .00000     .00000     .00000      12362    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000      12362    
+call a2b.TranTime                           .00000     .00000     .00000     .00000      12362    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000      12362    
+call a2b.TotalTime                          .08158     .00121     .00000     .79310      12362    
+Channel B to A.Queue.WaitingTime            .00000     .00000     .00000     .00000       5471    
+Channel A to B.Queue.WaitingTime            .00000     .00000     .00000     .00000       6451    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call a2b.WIP                                43.870     .68687     25.000     61.000     45.000    
+a2b.NumberBusy                              23.576     .64296     10.000     30.000     28.000    
+a2b.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+a2b.Utilization                             .78587     .02143     .33333     1.0000     .93333    
+b2a.NumberBusy                              20.294     .56058     8.0000     30.000     17.000    
+b2a.NumberScheduled                         30.000     (Insuf)    30.000     30.000     30.000    
+b2a.Utilization                             .67648     .01869     .26667     1.0000     .56667    
+Channel B to A.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+Channel A to B.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11923  Infinite
+Blocked Total                                   439  Infinite
+Blocked A to B                                  352  Infinite
+Blocked B to A                                   87  Infinite
+Successful B to A                              5471  Infinite
+Successful A to B                              6451  Infinite  
+capacity		 30
+block rate	3.55%
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call a2b.NumberIn                           12361.    
+call a2b.NumberOut                          12362.    
+a2b.NumberSeized                            6451.0    
+a2b.ScheduledUtilization                    .78587    
+b2a.NumberSeized                            5471.0    
+b2a.ScheduledUtilization                    .67648    
+System.NumberOut                            12362.    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.
+
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/14/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/14/2025
+
+Replication ended at time      : 24.0 Hours 
+Statistics were cleared at time: 1.0 Hours (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 23.0 Hours
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call a2b.VATime                             .07576     .00149     .00000     .71950      12328    
+call a2b.NVATime                            .00000     .00000     .00000     .00000      12328    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000      12328    
+call a2b.TranTime                           .00000     .00000     .00000     .00000      12328    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000      12328    
+call a2b.TotalTime                          .07576     .00149     .00000     .71950      12328    
+Channel B to A.Queue.WaitingTime            .00000     .00000     .00000     .00000       5178    
+Channel A to B.Queue.WaitingTime            .00000     .00000     .00000     .00000       5839    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call a2b.WIP                                40.584     .43341     21.000     51.000     40.000    
+a2b.NumberBusy                              21.229     .32925     6.0000     25.000     19.000    
+a2b.NumberScheduled                         25.000     (Insuf)    25.000     25.000     25.000    
+a2b.Utilization                             .84916     .01317     .24000     1.0000     .76000    
+b2a.NumberBusy                              19.355     .41924     8.0000     25.000     21.000    
+b2a.NumberScheduled                         25.000     (Insuf)    25.000     25.000     25.000    
+b2a.Utilization                             .77424     .01677     .32000     1.0000     .84000    
+Channel B to A.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+Channel A to B.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11019  Infinite
+Blocked Total                                  1309  Infinite
+Blocked A to B                                  972  Infinite
+Blocked B to A                                  337  Infinite
+Successful B to A                              5178  Infinite
+Successful A to B                              5839  Infinite
+capacity		25
+Block Rate	10.62%
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call a2b.NumberIn                           12326.    
+call a2b.NumberOut                          12328.    
+a2b.NumberSeized                            5839.0    
+a2b.ScheduledUtilization                    .84916    
+b2a.NumberSeized                            5178.0    
+b2a.ScheduledUtilization                    .77424    
+System.NumberOut                            12328.    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.
+
+26
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/14/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/14/2025
+
+Replication ended at time      : 24.0 Hours 
+Statistics were cleared at time: 1.0 Hours (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 23.0 Hours
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call a2b.VATime                             .07748     .00126     .00000     .79310      12298    
+call a2b.NVATime                            .00000     .00000     .00000     .00000      12298    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000      12298    
+call a2b.TranTime                           .00000     .00000     .00000     .00000      12298    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000      12298    
+call a2b.TotalTime                          .07748     .00126     .00000     .79310      12298    
+Channel B to A.Queue.WaitingTime            .00000     .00000     .00000     .00000       5332    
+Channel A to B.Queue.WaitingTime            .00000     .00000     .00000     .00000       5944    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call a2b.WIP                                41.465     .72372     21.000     53.000     36.000    
+a2b.NumberBusy                              21.828     .36983     9.0000     26.000     19.000    
+a2b.NumberScheduled                         26.000     (Insuf)    26.000     26.000     26.000    
+a2b.Utilization                             .83957     .01422     .34615     1.0000     .73077    
+b2a.NumberBusy                              19.636     (Corr)     6.0000     26.000     17.000    
+b2a.NumberScheduled                         26.000     (Insuf)    26.000     26.000     26.000    
+b2a.Utilization                             .75525     (Corr)     .23077     1.0000     .65385    
+Channel B to A.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+Channel A to B.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11278  Infinite
+Blocked Total                                  1020  Infinite
+Blocked A to B                                  779  Infinite
+Blocked B to A                                  241  Infinite
+Successful B to A                              5332  Infinite
+Successful A to B                              5944  Infinite
+capacity		26
+block rate	 	8.29%
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call a2b.NumberIn                           12296.    
+call a2b.NumberOut                          12298.    
+a2b.NumberSeized                            5944.0    
+a2b.ScheduledUtilization                    .83957    
+b2a.NumberSeized                            5332.0    
+b2a.ScheduledUtilization                    .75525    
+System.NumberOut                            12298.    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.
+
+27
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/14/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/14/2025
+
+Replication ended at time      : 24.0 Hours 
+Statistics were cleared at time: 1.0 Hours (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 23.0 Hours
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call a2b.VATime                             .07864     .00145     .00000     .74744      12273    
+call a2b.NVATime                            .00000     .00000     .00000     .00000      12273    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000      12273    
+call a2b.TranTime                           .00000     .00000     .00000     .00000      12273    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000      12273    
+call a2b.TotalTime                          .07864     .00145     .00000     .74744      12273    
+Channel B to A.Queue.WaitingTime            .00000     .00000     .00000     .00000       5340    
+Channel A to B.Queue.WaitingTime            .00000     .00000     .00000     .00000       6093    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call a2b.WIP                                41.966     .57613     24.000     55.000     45.000    
+a2b.NumberBusy                              22.324     .45755     9.0000     27.000     21.000    
+a2b.NumberScheduled                         27.000     (Insuf)    27.000     27.000     27.000    
+a2b.Utilization                             .82684     .01695     .33333     1.0000     .77778    
+b2a.NumberBusy                              19.642     .54592     7.0000     27.000     24.000    
+b2a.NumberScheduled                         27.000     (Insuf)    27.000     27.000     27.000    
+b2a.Utilization                             .72748     .02022     .25926     1.0000     .88889    
+Channel B to A.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+Channel A to B.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11431  Infinite
+Blocked Total                                   842  Infinite
+Blocked A to B                                  704  Infinite
+Blocked B to A                                  138  Infinite
+Successful B to A                              5340  Infinite
+Successful A to B                              6093  Infinite
+capacity 	27
+block rate		6.86%
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call a2b.NumberIn                           12275.    
+call a2b.NumberOut                          12273.    
+a2b.NumberSeized                            6093.0    
+a2b.ScheduledUtilization                    .82684    
+b2a.NumberSeized                            5340.0    
+b2a.ScheduledUtilization                    .72748    
+System.NumberOut                            12273.    
+
+
+Simulation run time: 0.03 minutes.
+Simulation run complete.
+
+28
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/14/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/14/2025
+
+Replication ended at time      : 24.0 Hours 
+Statistics were cleared at time: 1.0 Hours (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 23.0 Hours
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call a2b.VATime                             .07995     .00123     .00000     .79310      12381    
+call a2b.NVATime                            .00000     .00000     .00000     .00000      12381    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000      12381    
+call a2b.TranTime                           .00000     .00000     .00000     .00000      12381    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000      12381    
+call a2b.TotalTime                          .07995     .00123     .00000     .79310      12381    
+Channel B to A.Queue.WaitingTime            .00000     .00000     .00000     .00000       5427    
+Channel A to B.Queue.WaitingTime            .00000     .00000     .00000     .00000       6236    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call a2b.WIP                                43.038     .80255     24.000     57.000     40.000    
+a2b.NumberBusy                              23.001     .44675     10.000     28.000     19.000    
+a2b.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+a2b.Utilization                             .82148     .01596     .35714     1.0000     .67857    
+b2a.NumberBusy                              20.036     .69635     6.0000     28.000     21.000    
+b2a.NumberScheduled                         28.000     (Insuf)    28.000     28.000     28.000    
+b2a.Utilization                             .71560     .02487     .21429     1.0000     .75000    
+Channel B to A.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+Channel A to B.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11661  Infinite
+Blocked Total                                   720  Infinite
+Blocked A to B                                  615  Infinite
+Blocked B to A                                  105  Infinite
+Successful B to A                              5427  Infinite
+Successful A to B                              6236  Infinite
+capacity 	28
+block rate 	5.82%
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call a2b.NumberIn                           12383.    
+call a2b.NumberOut                          12381.    
+a2b.NumberSeized                            6236.0    
+a2b.ScheduledUtilization                    .82148    
+b2a.NumberSeized                            5427.0    
+b2a.ScheduledUtilization                    .71560    
+System.NumberOut                            12381.    
+
+
+Simulation run time: 0.03 minutes.
+Simulation run complete.
+
+29
+
+                                      ARENA Simulation Results
+                                       llzzmmqwer@outlook.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/14/2025
+Analyst: yunfeiwang1126@163.com                                      Model revision date: 2/14/2025
+
+Replication ended at time      : 24.0 Hours 
+Statistics were cleared at time: 1.0 Hours (Friday, February 14, 2025, 01:00:00)
+Statistics accumulated for time: 23.0 Hours
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+call a2b.VATime                             .08083     (Corr)     .00000     .71950      12388    
+call a2b.NVATime                            .00000     .00000     .00000     .00000      12388    
+call a2b.WaitTime                           .00000     .00000     .00000     .00000      12388    
+call a2b.TranTime                           .00000     .00000     .00000     .00000      12388    
+call a2b.OtherTime                          .00000     .00000     .00000     .00000      12388    
+call a2b.TotalTime                          .08083     (Corr)     .00000     .71950      12388    
+Channel B to A.Queue.WaitingTime            .00000     .00000     .00000     .00000       5409    
+Channel A to B.Queue.WaitingTime            .00000     .00000     .00000     .00000       6392    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+call a2b.WIP                                43.538     .92992     23.000     59.000     47.000    
+a2b.NumberBusy                              23.703     (Corr)     7.0000     29.000     24.000    
+a2b.NumberScheduled                         29.000     (Insuf)    29.000     29.000     29.000    
+a2b.Utilization                             .81736     (Corr)     .24138     1.0000     .82759    
+b2a.NumberBusy                              19.834     .68084     6.0000     29.000     23.000    
+b2a.NumberScheduled                         29.000     (Insuf)    29.000     29.000     29.000    
+b2a.Utilization                             .68396     .02348     .20690     1.0000     .79310    
+Channel B to A.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+Channel A to B.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Success Total                                 11792  Infinite
+Blocked Total                                   596  Infinite
+Blocked A to B                                  503  Infinite
+Blocked B to A                                   93  Infinite
+Successful B to A                              5409  Infinite
+Successful A to B                              6392  Infinite
+capacity 	29
+block rate		4.81%
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+call a2b.NumberIn                           12397.    
+call a2b.NumberOut                          12388.    
+a2b.NumberSeized                            6392.0    
+a2b.ScheduledUtilization                    .81736    
+b2a.NumberSeized                            5409.0    
+b2a.ScheduledUtilization                    .68396    
+System.NumberOut                            12388.    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.
+
+
